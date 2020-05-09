@@ -44,4 +44,4 @@ Le crible d'Eratosthène est une méthode qui permet d'obtenir la liste des enti
     k et on raye tous les multiples de k sauf k lui-même
 * on répète le traitement jusqu'au dernier entier k vérifiant k ≤ sqrt(n)
 
-A la fin, les nombres non rayés sont les nombres premiers inférieurs à n. En utilisant le crible d'Eratosthène, écrire un programme qui affiche la liste de tous les entiers premiers inférieurs à $n$. On pourra prendre n = 300
+A la fin, les nombres non rayés sont les nombres premiers inférieurs à n. En utilisant le crible d'Eratosthène, écrire un programme qui affiche la liste de tous les entiers premiers inférieurs à n. On pourra prendre n = 300

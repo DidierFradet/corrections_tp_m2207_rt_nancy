@@ -56,7 +56,7 @@ La classe `ArrayList` permet de gérer des tableaux dynamiques et possèdent des
 ### Exercice 4 : dates et heures
 La gestion des dates et des heures est un problème difficile dans les langages. Avec Java 8 vient une nouvelle API de gestion du temps nommée `java.time`. Dans l'exercice suivant, vous allez utiliser quelques classes.
 
-1. Créer une instance de la classe `LocalDateTime` représentant le moment présent. ⍺⍺⍺β
+1. Créer une instance de la classe `LocalDateTime` représentant le moment présent.
 2. À l'aide de la classe `DateTimeFormatter`, créer un format de date et heure sous une forme permettant un affichage comme par exemple " samedi 11 février 2017 14:35 " et afficher le moment présent.
 3. Ajouter 2 heures et 45 minutes à ce moment présent et afficher le résultat.
 4. Créer une instance de la classe `LocalDate` représentant votre date de naissance puis créer un format d'affichage et afficher votre date de naissance.
