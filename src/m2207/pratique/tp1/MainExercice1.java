@@ -6,8 +6,8 @@ package m2207.pratique.tp1;
 public class MainExercice1 {
     public static void main(String[] args) {
         int duree = 127452;
-        int h = duree / 3600;
-        int r = duree % 3600;
+        int h = duree / 3600; // division entière
+        int r = duree % 3600; // reste dans la division entière
         int m = r / 60;
         int s = r % 60;
         System.out.println(duree +" s : " + h + "h " + m + "min " + s + "s");
