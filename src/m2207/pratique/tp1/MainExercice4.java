@@ -66,5 +66,11 @@ public class MainExercice4 {
                 break;
         }
         System.out.println("Le " + j + "/" + m + "/" + a + " est un " + jour);
+
+        /*
+        Une autre solution :
+        String [] days = {"Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi"};
+        System.out.println("Le " + j + "/" + m + "/" + a + " est un " + days[n]);
+        */
     }
 }
