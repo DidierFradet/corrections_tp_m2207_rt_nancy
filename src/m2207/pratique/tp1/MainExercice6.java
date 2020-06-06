@@ -24,6 +24,5 @@ public class MainExercice6 {
                 System.out.println(n + " est un entier parfait");
             }
         }
-        
     }
 }
