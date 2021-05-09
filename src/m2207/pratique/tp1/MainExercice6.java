@@ -19,7 +19,7 @@ public class MainExercice6 {
                     s = s + i;
                 }
             }
-            // On teste si  la somme des diviseurs stricts vaut n
+            // On teste si la somme des diviseurs stricts vaut n
             if (s == n) {
                 System.out.println(n + " est un entier parfait");
             }

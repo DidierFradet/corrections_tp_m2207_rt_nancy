@@ -13,7 +13,7 @@ public class MainExercice3 {
         int n = sc.nextInt();
         // Connaissant le nombre de réels, on peut construire le tableau
         double[] tab = new double[n];
-        // On aliment le tableau avec les saisies de l'utilisateur
+        // On alimente le tableau avec les saisies de l'utilisateur
         for (int i = 0; i < n; i++) {
             System.out.println("Saisir le réel numéro " + (i + 1));
             tab[i] = sc.nextDouble();

@@ -15,10 +15,10 @@ public class MainExercice5 {
             par exemple ici  i = i + p
             - cumuler s, c’est à dire s = s + f(i)
 
-        2. Le calcul de 1/n : 1 est un entier et si n est un entier, alors 1/n est un entier et vaut 0 pour n>1.
+        2. Le calcul de 1/i : 1 est un entier et si i est un entier, alors 1/i est un entier et vaut 0 pour n>1.
         Il y a donc deux possibilités :
-        - déclarer comme réel. C'est assez bizarre mais ça marche
-        - écrire 1.0/n. Ainsi, conformément à ce qui est décrit au paragraphe 2.4 page 15 du polycopié, 1.0/n
+        - déclarer i comme réel. C'est assez bizarre mais ça marche
+        - écrire 1.0/i. Ainsi, conformément à ce qui est décrit au paragraphe 2.4 page 15 du polycopié, 1.0/i
         est un réel
 
         Évidemment il faut ici faire une boucle while.
