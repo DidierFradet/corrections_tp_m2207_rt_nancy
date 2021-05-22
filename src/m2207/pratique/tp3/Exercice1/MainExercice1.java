@@ -25,6 +25,5 @@ public class MainExercice1 {
         for (Personne p:tab) {
             System.out.println(p.getPrenom());
         }
-
     }
 }

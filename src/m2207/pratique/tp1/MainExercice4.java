@@ -66,9 +66,14 @@ public class MainExercice4 {
                 break;
         }
         System.out.println("Le " + j + "/" + m + "/" + a + " est un " + jour);
+        /*
+        Si on veut formater l'affichage, il faut utiliser System.out.printf()
+        System.out.printf("Le %02d/%02d/%d est un %s", j, m, a, jour);
+        */
+
 
         /*
-        Une autre solution :
+        Une autre solution beaucoup plus intéressante :
         String [] days = {"Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi"};
         System.out.println("Le " + j + "/" + m + "/" + a + " est un " + days[n]);
         */

@@ -16,8 +16,9 @@ public class MainExercice5 {
             - cumuler s, c’est à dire s = s + f(i)
 
         2. Le calcul de 1/i : 1 est un entier et si i est un entier, alors 1/i est un entier et vaut 0 pour n>1.
-        Il y a donc deux possibilités :
+        Il y a donc plusieurs possibilités :
         - déclarer i comme réel. C'est assez bizarre mais ça marche
+        - faire un cast de i en réel = 1/(double)i
         - écrire 1.0/i. Ainsi, conformément à ce qui est décrit au paragraphe 2.4 page 15 du polycopié, 1.0/i
         est un réel
 
